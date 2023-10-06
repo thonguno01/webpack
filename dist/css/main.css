@@ -1,0 +1,35 @@
+/*!***************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/style/hello.scss ***!
+  \***************************************************************************************************************/
+body {
+  font-size: 25px;
+  background: red;
+}
+
+p {
+  color: white;
+}
+
+.navbar .btn {
+  font-size: 25px;
+  padding: 10px;
+}
+.navbar ul {
+  list-style: none;
+}
+.navbar ul li {
+  display: inline-block;
+}
+/*!***************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/style/style.scss ***!
+  \***************************************************************************************************************/
+.helo.test {
+  font-size: 25px;
+  padding: 10px;
+}
+.helo ul {
+  list-style: none;
+}
+.helo ul li {
+  display: inline-block;
+}
